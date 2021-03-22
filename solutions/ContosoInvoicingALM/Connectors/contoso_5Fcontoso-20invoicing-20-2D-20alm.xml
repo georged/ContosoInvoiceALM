@@ -3,11 +3,11 @@
   <connectorid>58ea78e6-ed3b-45e6-9162-a153fa3cee7d</connectorid>
   <description></description>
   <displayname>Contoso Invoicing - ALM</displayname>
-  <iconbrandcolor>#007ee5</iconbrandcolor>
+  <iconbrandcolor>#0066ff</iconbrandcolor>
   <name>contoso_5Fcontoso-20invoicing-20-2D-20alm</name>
   <connectortype>1</connectortype>
   <openapidefinition>/Connector/contoso_5Fcontoso-20invoicing-20-2D-20alm_openapidefinition.json</openapidefinition>
   <connectionparameters>/Connector/contoso_5Fcontoso-20invoicing-20-2D-20alm_connectionparameters.json</connectionparameters>
   <policytemplateinstances>/Connector/contoso_5Fcontoso-20invoicing-20-2D-20alm_policytemplateinstances.json</policytemplateinstances>
-  <iconblob>/Connector/contoso_5Fcontoso-20invoicing-20-2D-20alm_iconblob.Jpeg</iconblob>
+  <iconblob>/Connector/contoso_5Fcontoso-20invoicing-20-2D-20alm_iconblob.Png</iconblob>
 </Connector>
